@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "deb2f8769cc52df8729805ed70e137ce",
+    "revision": "bf4a2828e89945357f0a8e8078a18bd4",
     "url": "/scammers-app/index.html"
   },
   {
-    "revision": "7bda46eed08bd64e5ed3",
+    "revision": "3c26a2a35c668ef2ba13",
     "url": "/scammers-app/static/css/2.5a510433.chunk.css"
   },
   {
-    "revision": "f5efb5df6c9cebbb83c3",
+    "revision": "1689684f8fc39160b880",
     "url": "/scammers-app/static/css/main.50f1a70a.chunk.css"
   },
   {
-    "revision": "7bda46eed08bd64e5ed3",
-    "url": "/scammers-app/static/js/2.a8a5ffb2.chunk.js"
+    "revision": "3c26a2a35c668ef2ba13",
+    "url": "/scammers-app/static/js/2.bc2d91a1.chunk.js"
   },
   {
     "revision": "4f98be436b88b05bb27c5253e1cce92a",
-    "url": "/scammers-app/static/js/2.a8a5ffb2.chunk.js.LICENSE.txt"
+    "url": "/scammers-app/static/js/2.bc2d91a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5efb5df6c9cebbb83c3",
-    "url": "/scammers-app/static/js/main.47cd2346.chunk.js"
+    "revision": "1689684f8fc39160b880",
+    "url": "/scammers-app/static/js/main.a9dc8ad2.chunk.js"
   },
   {
     "revision": "3f3c9a0a29368c960738",
